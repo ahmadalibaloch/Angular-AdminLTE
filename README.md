@@ -1,4 +1,4 @@
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ahmadalibaloch&url=http://about.me/ahmadalibaloch&title=Angular-AdminLTE&language=&tags=github&category=software)  Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ahmadalibaloch&url=http://about.me/ahmadalibaloch&title=Angular-AdminLTE&language=&tags=github&category=software)
 ------------------------
 
 Announcements:
