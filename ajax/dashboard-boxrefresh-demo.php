@@ -1,5 +1,5 @@
 <?php
-sleep(1.2); adfasdad sdfsdffsda
+sleep(1.2); 
 ?>
 <div class="pad">This data has been loaded via ajax using the custom boxResfresh plugin.</div>
 <small id="dummy-time" class="pad pull-right text-muted"></small>
