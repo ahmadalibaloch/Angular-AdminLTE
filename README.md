@@ -35,8 +35,8 @@ reserves the right to change the license of future releases.
 
 Todo List
 ---------
-- Add Ng-App
-- Add Routing
+- Add Ng-App (Continued...)
+- Add Routing (Continued...)
 - Add Ng-Table
 - Convert all js to ES6
 - Add X-editable
