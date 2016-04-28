@@ -35,7 +35,11 @@ reserves the right to change the license of future releases.
 
 Todo List
 ---------
-- ~~Add Ng-Table~~ (Done v2.1.0)
-- ~~Add Breeze.js~~ (Done v2.1.0)
-- ~~Convert all js to ES6~~ (Done v2.1.0)
-- ~~Add X-editable~~ (Done v2.3.1)
+- Add Ng-App
+- Add Routing
+- Add Ng-Table
+- Convert all js to ES6
+- Add X-editable
+- Add Breeze.js Module
+- Add Breeze X-editable
+
