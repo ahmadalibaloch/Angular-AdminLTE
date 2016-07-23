@@ -5,6 +5,18 @@ Introduction
 Angularjs integration /Implementation on top of renowned Admin-LTE theme (https://github.com/almasaeed2010/AdminLTE) now with many useful directives and features an Angularjs Web App should have.
 
 
+How to run:
+- Install Visual Studio
+- Run the `npm install` command in repository folder
+- Open the folder in Visual Studio Code
+- Run the Visual Studio Code command `Ctrl+Shift+B`
+
+Repository Info:
+- Source code is available in TypeScript
+- AngularJs latest is used
+- All pages are Angular Components
+
+Contributions needed to convert view pages from old them to Angular components
 
 Browser Support
 ---------------
@@ -35,11 +47,12 @@ reserves the right to change the license of future releases.
 
 Todo List
 ---------
-- Add Ng-App (Continued...)
-- Add Routing (Continued...)
+- Add Ng-App (Done)
+- Add Routing (Done)
+- Convert app settings to Angular app manageable (continued..)
+- Convert Pages to Angular Components (continued..)
+- Create reusable components for controls (continued..)
 - Add Ng-Table
-- Convert all js to ES6
-- Add X-editable
 - Add Breeze.js Module
 - Add Breeze X-editable
 
