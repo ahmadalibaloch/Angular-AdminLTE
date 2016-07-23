@@ -6,17 +6,17 @@ Angularjs integration /Implementation on top of renowned Admin-LTE theme (https:
 
 
 How to run:
-- Install Visual Studio
+- Install Visual Studio Code
 - Run the `npm install` command in repository folder
 - Open the folder in Visual Studio Code
 - Run the Visual Studio Code command `Ctrl+Shift+B`
 
 Repository Info:
 - Source code is available in TypeScript
-- AngularJs latest is used
+- AngularJs 1.5.6 is used
 - All pages are Angular Components
 
-Contributions needed to convert view pages from old them to Angular components
+Contributions needed to convert view pages from old theme to Angular components
 
 Browser Support
 ---------------
@@ -29,7 +29,7 @@ Contribution
 Contribution are always **welcome and recommended**! Here is how:
 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
+- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/Angular-AdminLTE.git```
 - Make your changes
 - Create a pull request
 
