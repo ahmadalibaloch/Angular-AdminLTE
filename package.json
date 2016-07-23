@@ -1,25 +1,28 @@
 {
-  "name": "admin-lte",
-  "version": "2.3.3",
-  "main": "dist/js/app.min.js",
+  "name": "angular-admin-lte",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/almasaeed2010/AdminLTE.git"
   },
   "license": "MIT",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "postinstall": "typings install"
+  },
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.6",
+    "es6-shim": "^0.35.1",
+    "jquery": "^2.2.4",
+    "systemjs": "^0.19.31",
+    "typescript": "^1.8.10"
+  },
   "devDependencies": {
-    "R2": "^1.4.3",
-    "grunt": "~0.4.5",
-    "grunt-bootlint": "^0.9.1",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-csslint": "^0.5.0",
-    "grunt-contrib-cssmin": "^0.12.2",
-    "grunt-contrib-jshint": "^0.11.2",
-    "grunt-contrib-less": "^0.12.0",
-    "grunt-contrib-uglify": "^0.7.0",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-cssjanus": "^0.2.4",
-    "grunt-image": "^1.0.5",
-    "grunt-includes": "^0.4.5"
+    "lite-server": "^2.2.2",
+    "systemjs-builder": "^0.15.23",
+    "typings": "^1.3.1"
   }
 }

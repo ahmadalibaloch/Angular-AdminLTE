@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"search.exclude": {
+		"**/.git": true,
+		"**/.vscode":true,
+		"**/node_modules":true,
+		"**/documentation":true,
+		"**/plugins":true,
+		"**/js": true,
+		"**/typings": true
+	},
+	"files.exclude": {
+		"**/.git": true,
+		"**/documentation": true
+	},
+	"editor.insertSpaces": false
+}
