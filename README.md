@@ -2,8 +2,13 @@
 Introduction
 ============
 
-Angularjs integration /Implementation on top of renowned Admin-LTE theme (https://github.com/almasaeed2010/AdminLTE) now with many useful directives and features an Angularjs Web App should have.
+Angularjs Admin Panel, cloned from [Admin-LTE](https://github.com/almasaeed2010/AdminLTE) theme, using right technology for right things and no mess. Code is clean and well commented written in `Typescript`, moreover, easy app structure using latest `Angular components` bundled and served using `SystemJs` universal dynamic module loader and no gulp grunt clutter but only super clean `NPM` :-).
 
+- SystemJs - Universal dynamic module loader
+- AngularJs - Angular Components
+- Source code is in typeScript, runtime compilation untill version 1.0
+- Simple NPM easy and clean, ~~No bower, gulp, grunt mess~~ 
+- Visual Studio Code task for serving to browser.
 
 How to run:
 - Install Visual Studio Code
@@ -11,10 +16,13 @@ How to run:
 - Open the folder in Visual Studio Code
 - Run the Visual Studio Code command `Ctrl+Shift+B`
 
+
+!["AdminLTE Presentation"] (https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
+
+**AdminLTE** has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.
+
 Repository Info:
-- Source code is available in TypeScript
-- AngularJs 1.5.6 is used
-- All pages are Angular Components
+
 
 Contributions needed to convert view pages from old theme to Angular components
 
