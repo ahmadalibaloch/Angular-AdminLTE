@@ -31,6 +31,8 @@ Browser Support
 - Firefox (latest)
 - Chrome (latest)
 - Opera (latest)
+- IE 9+
+- Edge
 
 Contribution
 ------------
@@ -55,8 +57,8 @@ reserves the right to change the license of future releases.
 
 Todo List
 ---------
-- Add Ng-App (Done)
-- Add Routing (Done)
+- ~~Add Ng-App~~ (Done)
+- ~~Add Routing~~ (Done)
 - Convert app settings to Angular app manageable (continued..)
 - Convert Pages to Angular Components (continued..)
 - Create reusable components for controls (continued..)
