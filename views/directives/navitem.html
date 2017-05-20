@@ -1,0 +1,18 @@
+<!-- Messages: style can be found in dropdown.less-->
+<li class="dropdown" ng-class="navClass">
+	<!-- Menu toggle button -->
+	<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+					<i class="fa" ng-class="icon"></i>
+					<span class="label" ng-class="countLabel">{{count}}</span>
+				</a>
+	<ul class="dropdown-menu">
+		<li class="header">{{title}}</li>
+		<li>
+			<!-- inner menu: contains the messages -->
+			<ng-transclude></ng-transclude>
+			<!-- /.menu -->
+		</li>
+		<li class="footer"><a ng-href="{{footer.link}}">{{footer.text}}</a></li>
+	</ul>
+</li>
+<!-- /.messages-menu -->
